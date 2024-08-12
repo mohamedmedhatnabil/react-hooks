@@ -1,9 +1,10 @@
 import './App.css';
-import TestUseState from './useState'
+import TestUseReducer from './test-app'
+
 function App() {
   return (
     <div>
-      <TestUseState />
+      <TestUseReducer />
     </div>
   );
 }

@@ -1,9 +1,9 @@
 import './App.css';
-import TestUseState from './useState'
+import TestUseEffect from './components/useEffect'
 function App() {
   return (
     <div>
-      <TestUseState />
+      <TestUseEffect />
     </div>
   );
 }

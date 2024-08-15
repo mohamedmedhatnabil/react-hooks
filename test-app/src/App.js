@@ -1,9 +1,9 @@
 import './App.css';
-import TestUseState from './useState'
+import TestUseImperativeHandle from './useImperativeHandle'
 function App() {
   return (
     <div>
-      <TestUseState />
+      <TestUseImperativeHandle />
     </div>
   );
 }

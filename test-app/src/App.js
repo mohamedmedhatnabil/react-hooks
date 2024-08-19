@@ -1,9 +1,9 @@
 import './App.css';
-import TestUseState from './useState'
+import TestUseContext from './useContext'
 function App() {
   return (
     <div>
-      <TestUseState />
+      <TestUseContext />
     </div>
   );
 }

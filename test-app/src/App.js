@@ -1,9 +1,9 @@
 import './App.css';
-import TestUseContext from './useContext'
+import UseMemo from './UseMemo'
 function App() {
   return (
     <div>
-      <TestUseContext />
+      <UseMemo />
     </div>
   );
 }
